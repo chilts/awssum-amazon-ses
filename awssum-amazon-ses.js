@@ -17,7 +17,6 @@ var util = require('util');
 
 // dependencies
 var _ = require('underscore');
-var xml2js = require('xml2js');
 var dateFormat = require('dateformat');
 
 // our own
