@@ -48,7 +48,7 @@ var Ses = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(Ses, amazon.Amazon);
+util.inherits(Ses, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js
