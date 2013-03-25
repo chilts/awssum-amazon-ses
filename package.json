@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-ses",
-    "description" : "NodeJS module to talk to Amazon Simple Email Service (SES).",
+    "description" : "AwsSum plugin for Amazon Simple Email Service (SES).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-ses.js",
